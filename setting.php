@@ -28,4 +28,3 @@ $error["db"] = " ";
 // グローバル変数
 $pdo = null;
 $title = "社員問合せ";
-$error = null;
